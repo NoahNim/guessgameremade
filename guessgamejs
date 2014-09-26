@@ -1,0 +1,7 @@
+var answerOne = function(){
+    var theAnswer = 42
+    var test = document.getElementById('text').value
+      if('text' == theAnswer){
+    console.log("TEST!")
+  }
+}
